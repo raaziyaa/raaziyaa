@@ -1,4 +1,4 @@
-<img src="https://github.com/shamimINFO/shamiminfo/blob/master/Banner(1).png">
+<img src="https://github.com/raaziyaa/raaziyaa/blob/main/Banner(1).png">
 <hr></hr>
 <p align="center">
   <samp>
